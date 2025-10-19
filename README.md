@@ -15,7 +15,7 @@ El programa lee un archivo de entrada con procesos y genera un archivo de salida
 ## Archivos
 - `mlq.py`: código principal del MLQ
 - `mlq001.txt`: ejemplo de entrada
-- `solved_mlq001txt`: ejemplo de salida generado
+- `solved_mlq001.txt`: ejemplo de salida generado
 - `README.md`: descripción del proyecto
 
 ## Uso
